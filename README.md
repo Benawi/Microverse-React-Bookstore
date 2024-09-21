@@ -59,7 +59,7 @@ Book Store React Project - Microverse! - An online Bookstore app built with Reac
         - [x] /
         - [x] /categories
    - [x] Create components inside of the /components directory:
-        - [x] Contains individual book states, as well as a button to delete the book
+        - [x] Contains individual book states, as well as a button to delete the book.
         - [x] Contains a list to render individual books
         - [x] Contains a form to create a new book
         - [x] Contains navigation to link to the 2 routes you created
